@@ -2,6 +2,7 @@
 一个用于模块间解耦的框架
 
 LuBus in 3 steps: 
+  First you should import LuBus into your project as a module then you can use it to decoupling your project
 
     1.Initialize the module
     LuBusManager.getInstance().init(Context context, String[] pathList);
