@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LubusDemo.iml" filepath="$PROJECT_DIR$/LubusDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lubus/lubus.iml" filepath="$PROJECT_DIR$/lubus/lubus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lubusone/lubusone.iml" filepath="$PROJECT_DIR$/lubusone/lubusone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lubustwo/lubustwo.iml" filepath="$PROJECT_DIR$/lubustwo/lubustwo.iml" />
+    </modules>
+  </component>
+</project>
